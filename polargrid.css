@@ -223,6 +223,10 @@ body {
     .downloadLink {
         display: none;
     }
+    
+    .textH {
+        font-size: x-large;
+    }
 
     .sec, .third {
         display: block;
